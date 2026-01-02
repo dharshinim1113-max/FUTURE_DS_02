@@ -11,9 +11,9 @@ advanced Power BI visuals to extract meaningful business insights.
 - Power BI
 
 ## Files Included
--TASK 2-FUTURE INTERNS.pbix
-- TASK 2 DASHBOARD.png (Dashboard screenshot)
-
+- TASK 2-FUTURE INTERNS.pbix
+- TASK 2_FUTURE INTERNS.png
+  
 ## Key Highlights
 - Created multiple interactive visuals
 - Analyzed performance using metrics like ROI, CTR, and engagement
