@@ -11,7 +11,7 @@ advanced Power BI visuals to extract meaningful business insights.
 - Power BI
 
 ## Files Included
-- TASK 2-FUTURE INTERNS.pbix (Power BI dashboard file)
+-TASK 2-FUTURE INTERNS.pbix
 - TASK 2 DASHBOARD.png (Dashboard screenshot)
 
 ## Key Highlights
